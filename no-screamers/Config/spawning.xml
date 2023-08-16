@@ -1,0 +1,4 @@
+<configs>
+	<setattribute xpath="/spawning/entityspawner[@name='Scouts']/day/property[@name='TotalAlive']" name="value">0</setattribute>
+	<setattribute xpath="/spawning/entityspawner[@name='Scouts']/day/property[@name='TotalPerWave']" name="value">0</setattribute>
+</configs>
